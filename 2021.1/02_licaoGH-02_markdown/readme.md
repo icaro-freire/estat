@@ -2,3 +2,4 @@
 
 nome | url
 ---  | --- 
+Andrei Paraizo dos Santos | https://github.com/AndreiParaizo/texto-markdown
