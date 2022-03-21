@@ -4,7 +4,7 @@
 
 ---
 
-nome   | treino | licaoGH-02 | licaoGH-03 | licaoGH-04 | licaoGH-04 | atv-avaliativa-I 
+nome   | treino | licaoGH-02 | licaoGH-03 | licaoGH-04 | licaoGH-05 | atv-avaliativa-I 
 -----  | ------ | ---------- | ---------- | ---------- | ---------- | ---------------- 
 Andrei | 100    |    100     |    80      | 90         | 70         | 98                   
 Edivan | 100    |     0      |     0      |  0         | 0          | 0
