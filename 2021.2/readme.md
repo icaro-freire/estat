@@ -6,7 +6,7 @@
       alt   = "Estatistica"
    >
    <h1 align = "center">
-      Estat 2021.1
+      Estat 2021.2
    </h1>
 </p>
 
