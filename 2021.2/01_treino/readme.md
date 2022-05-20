@@ -11,6 +11,5 @@ Além disso, deixem um espaço em branco entre seu nome e este sinal.
 Veja o exemplo.
 
 ## Lista de Participantes
-
+- Daiane dos SantosNogueira,QUÍMICA
 - Seu Nome Completo, seu CURSO
-- 
