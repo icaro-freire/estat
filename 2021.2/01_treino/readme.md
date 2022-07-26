@@ -13,4 +13,4 @@ Veja o exemplo.
 ## Lista de Participantes
 
 - Seu Nome Completo, seu CURSO
-- 
+-  Bárbara Araújo Prates, Química

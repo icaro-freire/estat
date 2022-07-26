@@ -2,4 +2,4 @@
 
 nome | _link_
 ---- | -----
-Seu nome | link do repositório
+Bárbara Araújo Prates| [Lição 02](https://github.com/Barbaraprattes/texto_markdown/tree/main)
