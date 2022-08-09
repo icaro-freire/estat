@@ -12,5 +12,5 @@ Veja o exemplo.
 
 ## Lista de Participantes
 
-- Seu Nome Completo, seu CURSO
 - Rebeca Costa Vieira, Química.
+- Bárbara Araújo Prates, Química
